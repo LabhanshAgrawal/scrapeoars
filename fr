@@ -1,0 +1,562 @@
+ Slot : AE201A / LEC: MWF 12:00-13:00 AE01; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : null / LEC: F 09:00-10:00 REQ; 
+ Slot : null / LEC: 
+ Slot : BSE412A / LEC: T 17:00-18:00 BSBH; LAB: MT 14:00-17:00 LAB; 
+ Slot : DE-1 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : BSE411A / LEC: TWTh 08:00-09:00 BSBH; 
+ Slot : null / LEC: 
+ Slot : BSE312A / LEC: Th 17:00-18:00 BSBH; LAB: WTh 14:00-17:00 LAB; 
+ Slot : BSE311A / LEC: MF 08:00-09:00 BSBH;T 09:00-10:00 BSBH; 
+ Slot : null / LEC: T/D: T 10:00-12:00 T203; 
+ Slot : BSE211A / LEC: MWF 12:00-13:00 L17; 
+ Slot : HSS21 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : HSS22 / LEC: TWF 12:00-13:00 L12; 
+ Slot : HSS12 / LEC: MWF 08:00-09:00 L4;T/D: Th 08:00-09:00 L4, T209; 
+ Slot : null / LEC: 
+ Slot : TA202A / LEC: T 08:00-09:00 L7; LAB: MTWThF 14:00-17:00 LAB; 
+ Slot : TA201A / LEC: T 09:00-10:00 L7; LAB: MTWThF 14:00-17:00 LAB; 
+ Slot : TA101A / LEC: TTh 14:00-15:00 L7; LAB: MTWTh 10:00-13:00 LAB; 
+ Slot : null / LEC: 
+ Slot : HSS21 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-12 / LEC: 
+ Slot : PG-11 / LEC: 
+ Slot : HSS22 / LEC: TWF 12:00-13:00 REQ; 
+ Slot : HSS21 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : HSS22 / LEC: TWF 12:00-13:00 L10; 
+ Slot : HSS12 / LEC: MWF 08:00-09:00 L6;T/D: Th 08:00-09:00 L6, T211; 
+ Slot : null / LEC: 
+ Slot : HSS21 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : PG-13 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : PG-11 / LEC: M 17:00-18:00 REQ;T 10:00-11:00 REQ;F 15:00-16:00 REQ; 
+ Slot : HSS22 / LEC: TWF 12:00-13:00 L8; 
+ Slot : HSS12 / LEC: MWF 08:00-09:00 L1;T/D: Th 08:00-09:00 L1,T212; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-13A / LEC: WF 17:00-18:30 REQ; 
+ Slot : DE-1 / LEC: M 10:00-11:30 REQ;Th 09:00-10:30 REQ; 
+ Slot : OE-7 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : OE-7 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : PG-3A / LEC: MTh 11:00-12:00 REQ;T/D: T 11:00-12:00 REQ; 
+ Slot : PG-9A / LEC: MTTh 14:00-15:00 REQ; 
+ Slot : OE-7 / LEC: 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-10 / LEC: T 08:00-09:00 REQ;T/D: WTh 08:00-09:00 REQ;F 12:00-13:00 REQ; 
+ Slot : PG-8A / LEC: M 15:00-16:00 REQ;T/D: TTh 15:00-16:00 REQ;F 14:00-15:00 REQ; 
+ Slot : PG-7A / LEC: M 14:00-15:00 REQ;T/D: TWTh 14:00-15:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PHY552A / LEC: TWTh 08:00-09:00 FB482;T/D: M 17:00-18:00 FB482; 
+ Slot : PG-2A / LEC: MTTh 10:00-11:00 REQ;T/D: F 12:00-13:00 REQ; 
+ Slot : PG-2A / LEC: MTTh 10:00-11:00 REQ;T/D: F 12:00-13:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: LAB: T 16:00-18:00 LAB;WThF 14:00-16:00 LAB; 
+ Slot : null / LEC: LAB: TWThF 14:00-16:00 LAB; 
+ Slot : PG-3A / LEC: MTh 11:00-12:00 REQ;T/D: T 11:00-12:00 REQ; LAB: MT 14:00-16:00 LAB; 
+ Slot : PHY431A / LEC: MTh 09:00-10:30 L10;T/D: T 09:00-10:00 REQ; 
+ Slot : PHY431A / LEC: MTh 09:00-10:30 REQ;T/D: T 09:00-10:00 REQ; 
+ Slot : PHY421A / LEC: MTh 12:00-13:30 L14;T/D: F 08:00-09:00 REQ; 
+ Slot : null / LEC: WF 17:00-18:30 REQ; 
+ Slot : PHY401A / LEC: TF 12:00-13:30 L9;T/D: W 09:00-10:00 REQ; 
+ Slot : null / LEC: F 14:00-15:00 REQ; 
+ Slot : PHY315A / LEC: M 08:00-09:00 T103; LAB: TW 14:00-17:00 LAB; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PHY224A / LEC: TW 17:00-18:00 T103; LAB: ThF 14:00-17:00 LAB; 
+ Slot : PHY103A / LEC: MWF 11:00-12:00 L7;T/D: T 11:00-12:00 REQ; 
+ Slot : PHY102A / LEC: MWF 15:00-16:00 L7;T/D: Th 15:00-16:00 REQ; 
+ Slot : PHY101A / LEC: LAB: MTWTh 10:00-13:00 LAB; 
+ Slot : null / LEC: 
+ Slot : PG-1 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : PG-1 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : PG-14 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : PG-14 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : HSS22 / LEC: TWF 12:00-13:00 L11; 
+ Slot : HSS21 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : HSS12 / LEC: MWF 08:00-09:00 L5;T/D: Th 08:00-09:00 L5, T210; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-9 / LEC: WF 17:00-18:30 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-9A / LEC: MTTh 16:00-17:00 REQ; 
+ Slot : PG-8A / LEC: MTTh 15:00-16:00 REQ; 
+ Slot : PG-8A / LEC: MTTh 15:00-16:00 REQ; 
+ Slot : PG-7A / LEC: MTTh 14:00-15:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-11A / LEC: MTh 09:00-10:00 REQ;T 12:00-13:00 REQ; 
+ Slot : PG-9A / LEC: MTTh 16:00-17:00 REQ; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : PG-11A / LEC: MTh 10:00-11:00 REQ;T 12:00-13:00 REQ; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : MTH423A / LEC: TWTh 08:00-09:00 REQ;T/D: F 15:00-16:00 REQ; 
+ Slot : PG-2A / LEC: MTTh 10:00-11:00 REQ;T/D: F 12:00-13:00 REQ; 
+ Slot : PG-1 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ;T/D: W 14:00-15:00 REQ; 
+ Slot : OE-7 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ;T/D: W 14:00-15:00 REQ; 
+ Slot : MSO202A / LEC: WThF 09:00-10:00 REQ;T/D: M 09:00-10:00 REQ; 
+ Slot : MTH423A / LEC: TWTh 08:00-09:00 L13;T/D: F 15:00-16:00 REQ; 
+ Slot : PG-9A / LEC: MTTh 16:00-17:00 REQ;T/D: W 14:00-15:00 REQ; 
+ Slot : PG-8A / LEC: MTTh 15:00-16:00 REQ;T/D: F 14:00-15:00 REQ; 
+ Slot : PG-7A / LEC: MTTh 14:00-15:00 REQ;T/D: F 14:00-15:00 REQ; 
+ Slot : PG-3A / LEC: MTh 11:00-12:00 REQ;T/D: T 11:00-12:00 REQ; 
+ Slot : PG-8A / LEC: MTTh 15:00-16:00 REQ;T/D: F 14:00-15:00 REQ; 
+ Slot : MTH403A / LEC: MF 08:00-09:00 L9;T 09:00-10:00 L9;T/D: W 15:00-16:00 REQ; 
+ Slot : MTH401A / LEC: TWF 16:00-17:00 L8; 
+ Slot : null / LEC: T/D: T 10:00-12:00 L15; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : MTH305A / LEC: MWF 11:00-12:00 L14;T/D: Th 11:00-12:00 REQ; 
+ Slot : MTH301A / LEC: MWF 12:00-13:00 L2;T/D: Th 12:00-13:00 REQ; 
+ Slot : null / LEC: MWTh 09:00-10:00 REQ;T/D: F 09:00-10:00 REQ; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ;T/D: T 17:00-18:00 REQ; 
+ Slot : MTH204A / LEC: MWF 17:00-18:00 L8;T/D: T 17:00-18:00 REQ; 
+ Slot : PG-2A / LEC: MTTh 10:00-11:00 REQ;T/D: F 14:00-15:00 REQ; 
+ Slot : null / LEC: MWTh 17:00-18:00 L6;T/D: T 17:00-18:00 L6; 
+ Slot : MTH101A / LEC: MWF 16:00-17:00 L7;Th 16:00-17:00 REQ;T/D: MWF 10:00-11:00 L7; T 10:00-11:00 REQ; 
+ Slot : MSO203B / LEC: 
+ Slot : MSO202A / LEC: WThF 09:00-10:00 L7;T/D: M 09:00-10:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : PG-11 / LEC: WF 15:00-16:30 REQ; 
+ Slot : DE-5 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : DE-4 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : DE-1 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : DE-7 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : DE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : DE-7 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: LAB: MTTh 14:00-17:00 LAB; 
+ Slot : null / LEC: LAB: MTTh 14:00-17:00 LAB; 
+ Slot : MSE303A / LEC: MF 08:00-09:00 L13;T 09:00-10:00 L13; 
+ Slot : MSE302A / LEC: TWTh 08:00-09:00 L9; 
+ Slot : MSE301A / LEC: TTh 17:00-18:00 L9; 
+ Slot : null / LEC: T/D: T 10:00-12:00 T201; 
+ Slot : MSE201A / LEC: MWF 12:00-13:00 L8;T/D: Th 12:00-13:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : DE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : null / LEC: 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : OE-7 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : PG-14 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : PG-13 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : PG-13 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : OE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : null / LEC: 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : OE-5 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-1 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-9 / LEC: WF 17:00-18:30 REQ; 
+ Slot : null / LEC: 
+ Slot : ME401A / LEC: TWTh 08:00-09:00 L12; LAB: MTh 14:00-16:00 LAB; 
+ Slot : null / LEC: T/D: T 10:00-12:00 L9; 
+ Slot : ME361A / LEC: MF 08:00-09:00 L5;T 09:00-10:00 L5; LAB: MTTh 14:00-16:00 LAB; 
+ Slot : DE-7 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : DE-7 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : ME352A / LEC: MTh 12:00-13:00 L4; LAB: MTTh 14:00-16:00 LAB; 
+ Slot : ME321A / LEC: MTh 11:00-12:00 L4; LAB: MTTh 14:00-16:00 LAB; 
+ Slot : ME321A / LEC: MTh 11:00-12:30 L4; 
+ Slot : ME301A / LEC: WF 11:00-12:00 L12; 
+ Slot : ME251A / LEC: W 12:00-13:00 T201; LAB: F 14:00-17:00 LAB; 
+ Slot : PG-11 / LEC: M 17:00-18:30 REQ;T 10:30-12:00 REQ; 
+ Slot : PG-11 / LEC: M 17:00-18:30 REQ;T 10:30-12:00 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : PG-9 / LEC: WF 17:00-18:30 REQ; 
+ Slot : OE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : OE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-15A / LEC: WF 15:30-17:00 REQ; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-14 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-8 / LEC: T 12:00-13:30 REQ;W 14:00-15:30 REQ; 
+ Slot : PG-11 / LEC: M 17:00-18:30 REQ;T 10:30-12:00 REQ; 
+ Slot : null / LEC: 
+ Slot : PG-11 / LEC: M 17:00-18:30 REQ;T 10:30-12:00 REQ; 
+ Slot : PG-7 / LEC: T 17:00-18:30 REQ;F 14:00-15:30 REQ; 
+ Slot : PG-15A / LEC: WF 15:30-17:00 REQ; 
+ Slot : PG-13 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : OE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : null / LEC: 
+ Slot : LIF101A / LEC: WF 14:00-15:00 L7; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-13 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : PG-7 / LEC: T 17:00-18:30 REQ;F 14:00-15:30 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : OE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : OE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-14 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : HSS22 / LEC: TWF 12:00-13:00 L9; 
+ Slot : HSS22 / LEC: TWF 12:00-13:00 L9; 
+ Slot : ESO203A / LEC: MWF 10:00-11:00 REQ; 
+ Slot : ESO209A / LEC: MW 17:00-18:00 L2;T/D: T 17:00-18:00 REQ; 
+ Slot : ESO208A / LEC: MWF 11:00-12:00 L17;T/D: Th 11:00-12:00 REQ; 
+ Slot : ESO207A / LEC: MWF 10:00-11:00 L2; 
+ Slot : ESO206A / LEC: MWF 09:00-10:00 L1; 
+ Slot : ESO209A / LEC: MW 17:00-18:00 L2;T/D: T 17:00-18:00 REQ; 
+ Slot : ESO205A / LEC: MWF 11:00-12:00 L2;T/D: Th 11:00-12:00 REQ; LAB: MTWThF 14:00-17:00 LAB; 
+ Slot : ESO204A / LEC: MWF 11:00-12:00 L16;T/D: Th 11:00-12:00 REQ; 
+ Slot : ESO203A / LEC: MWF 10:00-11:00 L1;T/D: Th 10:00-11:00 REQ; LAB: MW 14:00-17:00 LAB; 
+ Slot : ESO202A / LEC: MWF 10:00-11:00 L17;T/D: Th 10:00-11:00 REQ; 
+ Slot : ESO201A / LEC: MWF 10:00-11:00 L16;T/D: Th 10:00-11:00 REQ; 
+ Slot : ESC201A / LEC: MWF 08:00-09:00 L7;T/D: Th 08:00-09:00 T103-112, T203-207; LAB: MTThF 14:00-17:00 LAB; 
+ Slot : ESC101A / LEC: MWF 12:00-13:00 L7;T/D: T 12:00-13:00 L7; LAB: MTWTh 14:00-17:00 LAB; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ;T/D: T 16:00-17:00 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : PG-14 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:00 REQ; LAB: W 14:00-17:00 LAB; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : null / LEC: 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-9 / LEC: WF 17:00-18:30 REQ; 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-1 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : PG-8 / LEC: TF 12:00-13:00 REQ;W 14:00-15:00 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : HSS21 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : HSS22 / LEC: TWF 12:00-13:00 L15; 
+ Slot : HSS22 / LEC: TWF 12:00-13:00 L13; 
+ Slot : HSS12 / LEC: MWF 08:00-09:00 L3;T/D: Th 08:00-09:00 L3, T208; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : OE-6 / LEC: WF 15:30-17:00 REQ; 
+ Slot : null / LEC: 
+ Slot : DE-4 / LEC: MTh 14:00-15:30 ACES213; 
+ Slot : DE-1 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : DE-6 / LEC: WF 15:30-17:00 REQ; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-10 / LEC: TWTh 08:00-09:00 ACES213; 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ; LAB: Th 14:00-17:00 LAB; 
+ Slot : DE-1 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : DE-1 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-1 / LEC: MF 08:00-09:00 ACES213;T 09:00-10:00 ACES213; LAB: T 14:00-17:00 LAB; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 ACES213; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 ACES213; 
+ Slot : PG-6 / LEC: WF 10:30-12:00 ACES213; 
+ Slot : PG-9 / LEC: WF 17:00-18:30 ACES213; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 ACES213; 
+ Slot : DE-1 / LEC: MTh 09:00-10:30 ACES213; LAB: T 14:00-17:00 LAB; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : DE-6 / LEC: WF 15:30-17:00 ACES213; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : DE-1 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : DE-4 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : DE-8 / LEC: WF 12:00-13:30 ACES213; 
+ Slot : DE-5 / LEC: M 15:30-17:00 ACES213;T 14:00-15:30 ACES213; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: T/D: T 10:00-11:00 REQ; 
+ Slot : EE380A / LEC: T/D: T 12:00-13:00 REQ;Th 17:00-18:00 REQ;F 16:00-17:00 REQ; LAB: MTWTh 14:00-17:00 LAB; 
+ Slot : EE370A / LEC: MWF 11:00-12:00 L1;T/D: T 17:00-18:00 REQ; 
+ Slot : EE330A / LEC: MF 08:00-09:00 L1;T 09:00-10:00 L1;T/D: Th 11:00-12:00 REQ; 
+ Slot : EE320A / LEC: TWTh 08:00-09:00 L1;T/D: F 15:00-16:00 REQ; 
+ Slot : EE200A / LEC: MWF 12:00-13:00 L1;T/D: Th 12:00-13:00 REQ; 
+ Slot : null / LEC: 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-9 / LEC: WF 17:00-18:30 REQ; 
+ Slot : PG-15 / LEC: T 15:30-17:00 REQ;Th 15:30-17:30 REQ; 
+ Slot : PG-13 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : null / LEC: 
+ Slot : DE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : HSS21 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : null / LEC: 
+ Slot : ECO412A / LEC: TWTh 08:00-09:00 REQ; 
+ Slot : ECO411A / LEC: T 17:00-18:00 REQ;WF 14:00-15:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: T/D: T 10:00-12:00 REQ; 
+ Slot : ECO341A / LEC: WF 15:00-16:00 REQ;Th 17:00-18:00 REQ; LAB: T 14:00-17:00 LAB; 
+ Slot : ECO321A / LEC: T 12:00-13:00 REQ;WF 16:00-17:00 REQ; 
+ Slot : ECO301A / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : ECO201A / LEC: MWF 12:00-13:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-5 / LEC: WF 09:00-10:30 DP309; LAB: Th 14:00-17:00 LAB; 
+ Slot : PG-6 / LEC: WF 10:30-12:00 DP309; LAB: W 14:00-17:00 LAB; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 DP309; LAB: F 14:00-17:00 LAB; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 DP309; LAB: T 14:00-17:00 LAB; 
+ Slot : null / LEC: 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : PG-11 / LEC: T 10:00-11:00 REQ;WF 15:00-16:00 REQ; 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ; 
+ Slot : null / LEC: 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : null / LEC: TTh 17:00-18:30 REQ; 
+ Slot : PG-8 / LEC: TF 12:00-13:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-8 / LEC: TF 12:00-13:30 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : null / LEC: 
+ Slot : DE-6 / LEC: WF 15:30-17:00 REQ; 
+ Slot : DE-5 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : null / LEC: 
+ Slot : DE-4 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : CS345A / LEC: MWF 09:00-10:00 RM101; 
+ Slot : CS340A / LEC: MF 08:00-09:00 RM101;T 09:00-10:00 RM101; 
+ Slot : CS330A / LEC: TWTh 08:00-09:00 RM101; 
+ Slot : null / LEC: T/D: T 10:00-12:00 REQ; 
+ Slot : CS252A / LEC: Th 09:00-10:00 RM101; LAB: MW 14:00-17:00 LAB; 
+ Slot : CS203B / LEC: TWF 12:00-13:00 RM101; 
+ Slot : CS202A / LEC: TWF 12:00-13:00 RM101; 
+ Slot : CS201A / LEC: MTh 12:00-13:00 RM101;F 17:00-18:00 RM101; 
+ Slot : COM200 / LEC: Th 18:00-19:00 L7; LAB: T 10:00-12:00 LAB; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-9 / LEC: WF 17:00-18:30 REQ; 
+ Slot : PG-7 / LEC: T 17:00-18:00 REQ;W 12:00-13:00 REQ;F 14:00-15:00 REQ; 
+ Slot : PG-6 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-12 / LEC: T 11:00-12:00 REQ;WF 16:00-17:00 REQ; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : DE-7 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : PG-9 / LEC: WF 17:00-18:30 REQ; 
+ Slot : PG-14 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : PG-10 / LEC: TWTh 08:00-09:00 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : DE-1 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : PG-11 / LEC: M 17:00-18:00 REQ;WF 15:00-16:00 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : null / LEC: LAB: MT 14:00-17:00 LAB; 
+ Slot : CHM345A / LEC: MWF 17:00-18:00 REQ; 
+ Slot : CHM423A / LEC: LAB: MT 14:00-17:00 LAB; 
+ Slot : CHM321A / LEC: MWF 10:00-11:00 REQ; 
+ Slot : CHM305A / LEC: LAB: WTh 14:00-17:00 LAB; 
+ Slot : CHM303A / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: T/D: T 10:00-12:00 REQ; 
+ Slot : CHM345A / LEC: MWF 17:00-18:00 REQ; 
+ Slot : CHM321A / LEC: MWF 10:00-11:00 REQ; 
+ Slot : CHM305A / LEC: LAB: WTh 14:00-17:00 LAB; 
+ Slot : CHM303A / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : CHM203A / LEC: MWF 12:00-13:00 REQ; 
+ Slot : null / LEC: TF 08:00-09:00 L8;T/D: Th 08:00-09:00 L8; 
+ Slot : CHM101A / LEC: LAB: MTWTh 14:00-17:00 LAB; 
+ Slot : null / LEC: 
+ Slot : PG-7 / LEC: W 12:00-13:00 REQ; 
+ Slot : null / LEC: 
+ Slot : PG-7 / LEC: T 17:00-18:00 REQ; 
+ Slot : null / LEC: 
+ Slot : PG-9 / LEC: WF 17:00-18:30 REQ; 
+ Slot : PG-14 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : PG-13 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-10 / LEC: TWTh 08:00-09:00 REQ; 
+ Slot : PG-8 / LEC: TF 12:00-13:00 REQ;W 14:00-15:00 REQ; 
+ Slot : PG-1 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : null / LEC: 
+ Slot : CHE492A / LEC: W 15:00-16:00 L10; LAB: MT 14:00-17:00 LAB; 
+ Slot : CHE453A / LEC: TWTh 08:00-09:00 L10; LAB: MT 14:00-16:00 LAB; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : CHE352A / LEC: W 14:00-15:00 L10; LAB: ThF 14:00-16:00 LAB; 
+ Slot : null / LEC: 
+ Slot : CHE313A / LEC: TTh 17:00-18:00 L10;W 16:00-17:00 L10; 
+ Slot : CHE312A / LEC: MF 08:00-09:00 L10;T 09:00-10:00 L10; 
+ Slot : null / LEC: T/D: T 10:00-12:00 L13; 
+ Slot : CHE251A / LEC: MWF 12:00-13:00 L10; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : PG-12 / LEC: T 11:00-12:00 REQ;WF 16:00-17:00 REQ; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : null / LEC: 
+ Slot : PG-11 / LEC: T 10:00-11:00 REQ;WF 15:00-16:00 REQ; 
+ Slot : PG-1 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : OE-6 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : PG-12 / LEC: T 11:00-12:00 REQ;Th 17:00-18:00 REQ;F 16:00-17:00 REQ; 
+ Slot : PG-10 / LEC: TWTh 08:00-09:00 REQ; LAB: W 12:00-15:00 LAB; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 REQ; 
+ Slot : PG-11 / LEC: T 10:00-11:00 REQ;WF 15:00-16:00 REQ; 
+ Slot : PG-10 / LEC: TWTh 08:00-09:00 REQ; 
+ Slot : DE-5 / LEC: M 15:30-17:00 REQ;T 14:00-15:30 REQ; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : PG-7 / LEC: T 17:00-18:00 REQ;F 14:00-15:00 REQ; 
+ Slot : PG-7 / LEC: T 17:00-18:00 REQ;F 14:00-15:00 REQ; LAB: W 14:00-17:00 LAB; 
+ Slot : PG-12 / LEC: T 11:00-12:00 REQ;Th 17:00-18:00 REQ;F 16:00-17:00 REQ; 
+ Slot : PG-11 / LEC: T 10:00-11:00 REQ;WF 15:00-16:00 REQ; 
+ Slot : PG-10 / LEC: TWTh 08:00-09:00 REQ; 
+ Slot : DE-4 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : PG-4 / LEC: MTh 12:00-13:30 REQ; 
+ Slot : PG-1 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : OE-2 / LEC: WF 09:00-10:30 REQ; 
+ Slot : OE-3 / LEC: W 10:30-12:00 REQ; 
+ Slot : PG-6 / LEC: F 10:30-12:00 REQ; 
+ Slot : PG-2 / LEC: M 09:00-10:30 REQ; 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 REQ;T/D: WF 14:00-15:00 REQ; 
+ Slot : DE-1 / LEC: MTh 09:00-10:30 REQ; 
+ Slot : PG-1 / LEC: MF 08:00-09:00 REQ;T 09:00-10:00 REQ; 
+ Slot : CE441A / LEC: 
+ Slot : CE371A / LEC: WF 14:00-15:00 L4; 
+ Slot : CE361A / LEC: TTh 17:00-18:00 L3; 
+ Slot : CE351A / LEC: WF 15:00-16:00 L3; LAB: MTTh 15:00-17:00 LAB; 
+ Slot : null / LEC: T/D: T 10:00-12:00 EEM117; 
+ Slot : CE331A / LEC: TWTh 08:00-09:00 L3; LAB: MTTh 14:00-17:00 LAB; 
+ Slot : CE321A / LEC: 
+ Slot : CE211A / LEC: WThF 12:00-13:00 REQ;T/D: M 12:00-13:00 REQ; LAB: T 14:00-17:00 LAB; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 REQ; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : CE211A / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : null / LEC: 
+ Slot : OE-3 / LEC: WF 10:30-12:00 REQ; 
+ Slot : PG-13 / LEC: MTh 14:00-15:30 REQ; 
+ Slot : PG-3 / LEC: MTh 10:30-12:00 REQ; 
+ Slot : DE-8 / LEC: WF 12:00-13:30 REQ; 
+ Slot : PG-10 / LEC: TWTh 08:00-09:00 REQ; 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 AE04; 
+ Slot : null / LEC: 
+ Slot : DE-2 / LEC: MTh 10:30-12:00 NWTF; 
+ Slot : DE-3 / LEC: MTh 12:00-13:30 AE01; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 AE04; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 AE01; 
+ Slot : PG-5 / LEC: WF 09:00-10:30 AE04; 
+ Slot : PG-6 / LEC: WF 10:30-12:00 NWTF; 
+ Slot : PG-6 / LEC: WF 10:30-12:00 AE04; 
+ Slot : OE-3 / LEC: WF 10:30-12:00 AE04; 
+ Slot : OE-8 / LEC: WF 12:00-13:30 NWTF; 
+ Slot : PG-13 / LEC: MTh 14:00-15:30 NWTF; 
+ Slot : OE-1 / LEC: MWF 17:00-18:00 NWTF; 
+ Slot : PG-2 / LEC: MTh 09:00-10:30 NWTF; 
+ Slot : PG-15 / LEC: TTh 15:30-17:00 NWTF; 
+ Slot : null / LEC: 
+ Slot : AE461A / LEC: F 15:00-16:00 AE01; LAB: Th 14:00-16:00 LAB; 
+ Slot : null / LEC: LAB: M 14:00-17:00 LAB; 
+ Slot : AE441A / LEC: TWTh 08:00-09:00 EEM117; 
+ Slot : AE401A / LEC: LAB: T 10:00-12:00 LAB; 
+ Slot : null / LEC: 
+ Slot : AE331A / LEC: T 17:00-18:00 AE04;WF 14:00-15:00 AE04; 
+ Slot : AE321A / LEC: TWF 16:00-17:00 AE04; 
+ Slot : AE311A / LEC: MF 08:00-09:00 NWTF;T 09:00-10:00 NWTF; 

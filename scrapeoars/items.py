@@ -20,5 +20,3 @@ class ScrapeoarsItem(scrapy.Item):
     dept = scrapy.Field()
     schedule = scrapy.Field()
     instructor_notes = scrapy.Field()
-    current_status = scrapy.Field()
-

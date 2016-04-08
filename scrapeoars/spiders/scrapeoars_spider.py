@@ -27,5 +27,4 @@ class scrapeoarsSpider(scrapy.Spider):
         text = ''.join(response.xpath('//html/body/table/tr[8]/td[2]/text()').extract())
         item['schedule'] = str(re.sub(r"\s+", " ", text))
         item['instructor_notes'] = response.xpath('//html/body/table/tr[9]/td[2]/text()').extract()
-        item['current_status'] = response.xpath('//html/body/table/tr[10]/td[2]/text()').extract()
         yield item
